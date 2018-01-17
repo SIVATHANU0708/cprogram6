@@ -9,6 +9,6 @@ while(num!=0)
 num=num/10;
 count++;
 }
-printf("no of digits:%d",count)
+printf("no of digits:%d",count);
 return 0;
 }
